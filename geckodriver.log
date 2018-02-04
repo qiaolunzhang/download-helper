@@ -1,0 +1,170 @@
+1517723388112	geckodriver	INFO	geckodriver 0.19.1
+1517723388129	geckodriver	INFO	Listening on 127.0.0.1:3850
+error: Found argument '-e' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver.exe -v
+
+For more information try --help
+1517723435157	geckodriver	INFO	geckodriver 0.19.1
+1517723435174	geckodriver	INFO	Listening on 127.0.0.1:3876
+error: Found argument '-e' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver.exe -v
+
+For more information try --help
+1517723664069	geckodriver	INFO	geckodriver 0.19.1
+1517723664089	geckodriver	INFO	Listening on 127.0.0.1:4347
+1517723667177	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.Oyi6STGixvPH"
+1517723668938	Marionette	INFO	Enabled via --marionette
+[Child 3684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517723671547	Marionette	INFO	Listening on port 4355
+1517723672612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517723672704	Marionette	DEBUG	Register listener.js for window 4294967297
+1517723672727	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517723673627	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517723673628	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517723674373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/"
+1517723674816	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/"
+[Child 7156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517724077206	geckodriver	INFO	geckodriver 0.19.1
+1517724077225	geckodriver	INFO	Listening on 127.0.0.1:4626
+1517724080329	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.IeHbT79iJdos"
+*** You are running in headless mode.
+1517724081694	Marionette	INFO	Enabled via --marionette
+1517724083661	Marionette	INFO	Listening on port 4634
+1517724084040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517724084153	Marionette	DEBUG	Register listener.js for window 4294967297
+1517724084192	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517724084681	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517724084681	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517724085318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/"
+1517724085691	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/"
+1517724140775	geckodriver	INFO	geckodriver 0.19.1
+1517724140795	geckodriver	INFO	Listening on 127.0.0.1:4684
+1517724143865	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.mXazRIT62Cbm"
+*** You are running in headless mode.
+1517724145218	Marionette	INFO	Enabled via --marionette
+1517724147253	Marionette	INFO	Listening on port 4694
+1517724147513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517724147592	Marionette	DEBUG	Register listener.js for window 4294967297
+1517724147632	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517724148563	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517724148563	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517724149270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/"
+1517724153945	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/"
+1517724282269	geckodriver	INFO	geckodriver 0.19.1
+1517724282287	geckodriver	INFO	Listening on 127.0.0.1:4759
+1517724285387	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.Mf0tTzGcNIUb"
+*** You are running in headless mode.
+1517724286780	Marionette	INFO	Enabled via --marionette
+[Child 10772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517724288794	Marionette	INFO	Listening on port 4767
+1517724289045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517724289203	Marionette	DEBUG	Register listener.js for window 4294967297
+1517724289279	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517724296062	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517724296062	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517724296651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/"
+1517724297412	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400C1,name=PContent::Msg_GraphicsError) Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1517725779094	geckodriver	INFO	geckodriver 0.19.1
+1517725779112	geckodriver	INFO	Listening on 127.0.0.1:6064
+error: Found argument '-e' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver.exe -v
+
+For more information try --help
+1517725848125	geckodriver	INFO	geckodriver 0.19.1
+1517725848143	geckodriver	INFO	Listening on 127.0.0.1:6084
+1517725851257	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.EFLGhA1yRP64"
+*** You are running in headless mode.
+1517725872697	geckodriver	INFO	geckodriver 0.19.1
+1517725872719	geckodriver	INFO	Listening on 127.0.0.1:6117
+1517725875790	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.btgrDYfInAPK"
+*** You are running in headless mode.
+1517725877306	Marionette	INFO	Enabled via --marionette
+1517725878979	Marionette	INFO	Listening on port 6125
+1517725879041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517725946486	geckodriver	INFO	geckodriver 0.19.1
+1517725946502	geckodriver	INFO	Listening on 127.0.0.1:6181
+1517725949584	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.aSzpA36h7IGc"
+*** You are running in headless mode.
+1517725950714	Marionette	INFO	Enabled via --marionette
+1517725952375	Marionette	INFO	Listening on port 6189
+1517725952720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517725999099	geckodriver	INFO	geckodriver 0.19.1
+1517725999117	geckodriver	INFO	Listening on 127.0.0.1:6234
+1517726002262	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.WALrvHwmjWak"
+*** You are running in headless mode.
+1517726003632	Marionette	INFO	Enabled via --marionette
+1517726005482	Marionette	INFO	Listening on port 6242
+1517726005930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517726054724	geckodriver	INFO	geckodriver 0.19.1
+1517726054750	geckodriver	INFO	Listening on 127.0.0.1:6309
+1517726057949	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.TjaoVsLbxBMy"
+*** You are running in headless mode.
+1517726059245	Marionette	INFO	Enabled via --marionette
+1517726060879	Marionette	INFO	Listening on port 6317
+1517726061120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517726139974	geckodriver	INFO	geckodriver 0.19.1
+1517726139991	geckodriver	INFO	Listening on 127.0.0.1:6368
+1517726143246	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.S8bVnKGHfNBI"
+*** You are running in headless mode.
+1517726144410	Marionette	INFO	Enabled via --marionette
+1517726146031	Marionette	INFO	Listening on port 6376
+1517726146375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517726602720	geckodriver	INFO	geckodriver 0.19.1
+1517726602737	geckodriver	INFO	Listening on 127.0.0.1:2988
+1517726605917	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.EQTlGLGOArGD"
+1517726607310	Marionette	INFO	Enabled via --marionette
+1517726609188	Marionette	INFO	Listening on port 3000
+1517726609601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517727033286	geckodriver	INFO	geckodriver 0.19.1
+1517727033303	geckodriver	INFO	Listening on 127.0.0.1:3664
+1517727036408	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.dFwSNikjaxxN"
+1517727037748	Marionette	INFO	Enabled via --marionette
+1517727039643	Marionette	INFO	Listening on port 3680
+1517727040039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517727702542	geckodriver	INFO	geckodriver 0.19.1
+1517727702565	geckodriver	INFO	Listening on 127.0.0.1:4606
+1517727705645	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.bwTeKTqw9RlT"
+1517727707151	Marionette	INFO	Enabled via --marionette
+1517727709099	Marionette	INFO	Listening on port 4615
+1517727709311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517728488131	geckodriver	INFO	geckodriver 0.19.1
+1517728488154	geckodriver	INFO	Listening on 127.0.0.1:5188
+1517728491260	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.2KqjiS21KLmO"
+1517728492637	Marionette	INFO	Enabled via --marionette
+1517728494530	Marionette	INFO	Listening on port 5196
+1517728494932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517728565822	geckodriver	INFO	geckodriver 0.19.1
+1517728565838	geckodriver	INFO	Listening on 127.0.0.1:5315
+1517728568981	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.Bwr65STLZHQb"
+1517728570266	Marionette	INFO	Enabled via --marionette
+1517728572166	Marionette	INFO	Listening on port 5323
+1517728572610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517728601005	geckodriver	INFO	geckodriver 0.19.1
+1517728601024	geckodriver	INFO	Listening on 127.0.0.1:5391
+1517728604097	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.LjMo9UKhbeh5"
+1517728605354	Marionette	INFO	Enabled via --marionette
+1517728607267	Marionette	INFO	Listening on port 5401
+1517728607732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517728710873	geckodriver	INFO	geckodriver 0.19.1
+1517728710890	geckodriver	INFO	Listening on 127.0.0.1:5512
+1517728714002	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.5VGpT2DDd2Om"
+1517728715355	Marionette	INFO	Enabled via --marionette
+1517728717265	Marionette	INFO	Listening on port 5520
+1517728717641	Marionette	WARN	TLS certificate errors will be ignored for this session
