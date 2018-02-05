@@ -84,8 +84,8 @@ def saveTxt(loc):
         return ""
 
 if __name__ == '__main__':
-    start_url = "http://www.cs.cornell.edu/courses/cs1110/2017fa/lectures/index.php"
-    url = "http://www.cs.cornell.edu/courses/cs1110/2017fa/lectures/"
+    start_url = "http://www.cs.cornell.edu/courses/cs2043/2014sp/"
+    url = "http://www.cs.cornell.edu/courses/cs2043/2014sp/"
     if not os.path.exists('.//download'):
         os.mkdir('.//download')
     root = './/download//'

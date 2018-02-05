@@ -34,6 +34,7 @@ def get_ref(start_url):
 def save_pdf(href):
     try:
         kv = {'user-agent': 'Mozilla/5.0'}
+        print(url+href)
         r = requests.get(url+href, headers=kv)
         path = root + href.split('/')[-1]
         with open(path, 'wb') as f:
@@ -45,8 +46,8 @@ def save_pdf(href):
 
 
 if __name__ == '__main__':
-    start_url = 'http://www.cs.cornell.edu/courses/cs1133/2017fa/lectures/index.php'
-    url = 'http://www.cs.cornell.edu/courses/cs1133/2017fa/lectures/'
+    start_url = 'http://www.cs.cornell.edu/courses/cs2043/2014sp/'
+    url = 'http://www.cs.cornell.edu/courses/cs2043/2014sp/'
     root = './/download-single//'
     if not os.path.exists(root):
         os.mkdir('.//download-single')
