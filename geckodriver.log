@@ -48,9 +48,13 @@ For more information try --help
 1517724084681	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1517724085318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/"
 1517724085691	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/"
-1517724140775	geckodriver	INFO	geckodriver 0.19.1
-1517724140795	geckodriver	INFO	Listening on 127.0.0.1:4684
-1517724143865	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.mXazRIT62Cbm"
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.mXazRIT62Cbm"
 *** You are running in headless mode.
 1517724145218	Marionette	INFO	Enabled via --marionette
 1517724147253	Marionette	INFO	Listening on port 4694
@@ -61,9 +65,13 @@ For more information try --help
 1517724148563	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1517724149270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/"
 1517724153945	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/"
-1517724282269	geckodriver	INFO	geckodriver 0.19.1
-1517724282287	geckodriver	INFO	Listening on 127.0.0.1:4759
-1517724285387	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.Mf0tTzGcNIUb"
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.Mf0tTzGcNIUb"
 *** You are running in headless mode.
 1517724286780	Marionette	INFO	Enabled via --marionette
 [Child 10772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
@@ -98,9 +106,13 @@ For more information try --help
 1517725877306	Marionette	INFO	Enabled via --marionette
 1517725878979	Marionette	INFO	Listening on port 6125
 1517725879041	Marionette	WARN	TLS certificate errors will be ignored for this session
-1517725946486	geckodriver	INFO	geckodriver 0.19.1
-1517725946502	geckodriver	INFO	Listening on 127.0.0.1:6181
-1517725949584	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.aSzpA36h7IGc"
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.aSzpA36h7IGc"
 *** You are running in headless mode.
 1517725950714	Marionette	INFO	Enabled via --marionette
 1517725952375	Marionette	INFO	Listening on port 6189
@@ -138,14 +150,14 @@ For more information try --help
 1517727037748	Marionette	INFO	Enabled via --marionette
 1517727039643	Marionette	INFO	Listening on port 3680
 1517727040039	Marionette	WARN	TLS certificate errors will be ignored for this session
-1517727702542	geckodriver	INFO	geckodriver 0.19.1
-1517727702565	geckodriver	INFO	Listening on 127.0.0.1:4606
-1517727705645	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.bwTeKTqw9RlT"
-1517727707151	Marionette	INFO	Enabled via --marionette
-1517727709099	Marionette	INFO	Listening on port 4615
-1517727709311	Marionette	WARN	TLS certificate errors will be ignored for this session
-1517728488131	geckodriver	INFO	geckodriver 0.19.1
-1517728488154	geckodriver	INFO	Listening on 127.0.0.1:5188
+1517729329405	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 16480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+0.1:5188
 1517728491260	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\QIAOLU~1\\AppData\\Local\\Temp\\rust_mozprofile.2KqjiS21KLmO"
 1517728492637	Marionette	INFO	Enabled via --marionette
 1517728494530	Marionette	INFO	Listening on port 5196
@@ -168,3 +180,9 @@ For more information try --help
 1517728715355	Marionette	INFO	Enabled via --marionette
 1517728717265	Marionette	INFO	Listening on port 5520
 1517728717641	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

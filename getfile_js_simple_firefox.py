@@ -27,7 +27,7 @@ def get_ref(start_url):
             file_name = href.split('/')[-1]
             # print(file_name)
             # print(file_name.split('.'))
-            if file_name.split('.')[-1] == 'pdf':
+            if file_name.split('.')[-1] == 'ppt':
                 save_pdf(href)
         except:
             continue
@@ -48,8 +48,8 @@ def save_pdf(href):
 
 
 if __name__ == '__main__':
-    start_url = 'http://www.cs.cornell.edu/courses/cs1112/2017fa/#templates/syllabus?section=lectures'
-    url = 'http://www.cs.cornell.edu/courses/cs1112/2017fa/'
+    start_url = 'http://www.andrew.cmu.edu/course/95-707/'
+    url = 'http://www.andrew.cmu.edu/course/95-707/lecture/'
     root = './/download-single//'
     if not os.path.exists(root):
         os.mkdir('.//download-single')
