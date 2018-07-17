@@ -46,7 +46,7 @@ def save_pdf(href):
 
 
 if __name__ == '__main__':
-    start_url = 'http://cs231n.stanford.edu/syllabus.html'
+    start_url = 'http://cs.brown.edu/courses/csci0150/lectures.html'
     url = 'http://cs231n.stanford.edu/slides/2017/'
     root = './/download-single//'
     if not os.path.exists(root):
