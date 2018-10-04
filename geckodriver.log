@@ -206,3 +206,43 @@ JavaScript warning: https://t.agrantsem.com/tg.js?c=AG_383620_VERK&t=1, line 56:
 [Child 54196, Chrome_ChildThread] WARNING:
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1538683613087	geckodriver	INFO	geckodriver 0.21.0
+1538683613117	geckodriver	INFO	Listening on 127.0.0.1:2784
+1538683616120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.DtGsJDv7BgLJ"
+*** You are running in headless mode.
+1538683623081	Marionette	INFO	Listening on port 2808
+1538683623568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538683623623	Marionette	DEBUG	[6442450945] Frame script loaded
+1538683623625	Marionette	DEBUG	[6442450945] Frame script registered
+1538683626662	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538683626743	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538683626758	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://home.deib.polimi.it/amaldi/SlidesFOR-17-18.php
+1538683626823	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://home.deib.polimi.it/amaldi/SlidesFOR-17-18.php
+1538683678969	geckodriver	INFO	geckodriver 0.21.0
+1538683678986	geckodriver	INFO	Listening on 127.0.0.1:2876
+1538683681981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.rjN8A55SX1K6"
+*** You are running in headless mode.
+1538683685675	Marionette	INFO	Listening on port 2888
+1538683685859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538683686053	Marionette	DEBUG	[6442450945] Frame script loaded
+1538683686055	Marionette	DEBUG	[6442450945] Frame script registered
+1538683689085	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538683689121	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538683689170	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://home.deib.polimi.it/amaldi/SlidesFOR-17-18.php
+1538683689191	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://home.deib.polimi.it/amaldi/SlidesFOR-17-18.php
+1538683689228	Marionette	INFO	Stopped listening on port 2888
+[Child 812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 812, Chrome_ChildThread] WARNING: pipe error:[Parent 584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11538683893790	geckodriver	INFO	geckodriver 0.21.0
+1538683893800	geckodriver	INFO	Listening on 127.0.0.1:3105
+1538683896808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.AFDCCiuDdAg3"
+*** You are running in headless mode.
+1538683900206	Marionette	INFO	Listening on port 3113
+1538683900700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538683900807	Marionette	DEBUG	[6442450945] Frame script loaded
+1538683900812	Marionette	DEBUG	[6442450945] Frame script registered
+1538683903843	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538683903879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538683903919	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://home.deib.polimi.it/amaldi/SlidesFOR-17-18.php
+1538683903941	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://home.deib.polimi.it/amaldi/SlidesFOR-17-18.php
