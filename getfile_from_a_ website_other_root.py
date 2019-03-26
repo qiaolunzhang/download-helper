@@ -4,6 +4,7 @@ import os
 
 
 def getLoc(start_url):
+    link_dict = dict();
     pdf_num = 1
     ppt_num = 1
     txt_num = 1
@@ -22,6 +23,10 @@ def getLoc(start_url):
         print(link.get('href'))
     for link in soup.find_all('a'):
         loc = link.get('href')
+        if loc in link_dict.keys():
+            continue
+        else:
+            link_dict[loc] = 1
         try:
             flag = loc.find('pdf')
             if (flag >= 0):
@@ -58,7 +63,10 @@ def savePdf(loc, pdf_num):
     #root = './/download//'
     try:
         kv = {'user-agent':'Mozilla/5.0'}
-        r = requests.get(url+loc, headers=kv)
+        if loc.find('www') >= 0:
+            r = requests.get(loc, headers=kv)
+        else:
+            r = requests.get(url+loc, headers=kv)
         path = root + 'pdf//' + str(pdf_num) + '-' + loc.split('/')[-1]
         with open(path, 'wb') as f:
             f.write(r.content)
@@ -70,7 +78,10 @@ def savePdf(loc, pdf_num):
 def savePpt(loc, ppt_num):
     try:
         kv = {'user-agent':'Mozilla/5.0'}
-        r = requests.get(url+loc, headers=kv)
+        if loc.find('www') >= 0:
+            r = requests.get(loc, headers=kv)
+        else:
+            r = requests.get(url+loc, headers=kv)
         path = root + 'ppt_pptx//' + str(ppt_num) + '-' + loc.split('/')[-1]
         with open(path, 'wb') as f:
             f.write(r.content)
@@ -82,7 +93,10 @@ def savePpt(loc, ppt_num):
 def saveTxt(loc, txt_num):
     try:
         kv = {'user-agent':'Mozilla/5.0'}
-        r = requests.get(url+loc, headers=kv)
+        if loc.find('www') >= 0:
+            r = requests.get(loc, headers=kv)
+        else:
+            r = requests.get(url+loc, headers=kv)
         path = root + 'txt//' + str(txt_num) + '-' + loc.split('/')[-1]
         with open(path, 'wb') as f:
             f.write(r.content)
@@ -92,8 +106,8 @@ def saveTxt(loc, txt_num):
         return ""
 
 if __name__ == '__main__':
-    start_url = "http://web.mit.edu/15.053/www/AMP.htm"
-    url = "http://web.mit.edu/15.053/www/"
+    start_url = "http://course.ece.cmu.edu/~ece734/syllabus.html"
+    url = "http://course.ece.cmu.edu/~ece734/"
 
     if not os.path.exists('.//download'):
         os.mkdir('.//download')

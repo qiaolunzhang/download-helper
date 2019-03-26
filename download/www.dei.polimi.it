@@ -1,0 +1,450 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="it">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="google-site-verification" content="-hOq06Bfvt4lZj1iI_KoI_Spo9zY257XbZ3I8TzD5a0" />
+	<title>Dipartimento di Elettronica, Informazione e Bioingegneria</title>
+	
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,600italic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="/css/style.css" rel="stylesheet">
+    	 
+		
+		<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png"/>
+		<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png"/>
+		<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png"/>
+		<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png"/>
+		<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png"/>
+		<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png"/>
+		<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png"/>
+		<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png"/>
+		<link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32"/>
+		<link rel="icon" type="image/png" href="/favicons/favicon-96x96.png" sizes="96x96"/>
+		<link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16"/>
+		<link rel="manifest" href="/favicons/manifest.json"/>
+
+		<meta name="msapplication-TileColor" content="#da532c"/>
+		<meta name="msapplication-TileImage" content="/favicons/mstile-144x144.png"/>
+		<meta name="msapplication-config" content="/favicons/browserconfig.xml"/>
+		<meta name="theme-color" content="#ffffff"/>
+	
+	
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+					<script type='text/javascript' src='/js/jquery-1.11.1.min.js'></script>
+					 <script src="/js/bootstrap.min.js"></script>
+	
+					<link rel='stylesheet' type='text/css' href='/css/jquery.bxslider.css' >
+	
+					<script type='text/javascript' src='/js/jquery.bxslider.min.js'></script>
+					<script type='text/javascript' src='/js/jquery.bxslider.js'></script>
+					
+
+ 	
+    
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesnt work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	</head>
+<body>
+
+	<div class="top navbar-static-top">
+		<div class="container">
+			<div class="navbar-header">
+				<div class="lang navbar-left navbar-text" id="langSelected"><a href="javascript:;">ITA</a></div>
+ 	<div class="lang navbar-left navbar-text" ><a href='/eng/home-page'>ENG</A></div>
+				
+ 			<div class='quicklink navbar-right navbar-text'><a href='https://intranet.deib.polimi.it/ita/'  title='vai alla Intranet del DEIB'>INTRANET</a></div>
+			<div class='quicklink navbar-right navbar-text'><a href='http://www.eventideib.polimi.it/' target='_blank'><img src='/eventi.png'  height='34' width='62' alt="vai agli eventi del DEIB" title="vai agli eventi del DEIB"  ></a></div>
+			<div class='quicklink navbar-right navbar-text'><a href='http://www.peopleatdeib.polimi.it' target='_blank'><img src='/peopledeib.png' ' height='34' width='62' title='vai alla didattica innovativa del DEIB'></a></div>
+			<div class='quicklink navbar-right navbar-text'><a href='http://www.honours-programme.deib.polimi.it/' target='_blank'><img src='/honours.png'   height='34' width='62' alt="vai all'Honours Programme" title="vai all'Honours Programme"  ></a></div>
+			<div class='quicklink navbar-right navbar-text'><a href='https://www.i40.deib.polimi.it/' target='_blank'><img src='/i40.png'   height='34' width='62'  alt="vai agli eventi del DEIB dedicati all'I4.0" title="vai agli eventi del DEIB dedicati all'I4.0" ></a></div>
+            <div class='quicklink navbar-right navbar-text'><a href='http://www.eventideib.polimi.it/en/eventi/schooldeib/' target='_blank'><img src='/SCHOOL-DEIB-icona.png'  height='42' width='77' alt='vai alla proposta del DEIB per le scuole' title='vai alla proposta del DEIB per le scuole' ></a></div>
+            
+			</div>
+		</div>
+	</div>
+
+    <!-- Navigation -->
+ 
+	<div class="home  mobile-pages navbar navbar-default" role="navigation" style="background-image: url('/allegati/files_statici/background/6.jpg');background-repeat: no-repeat;  background-size: 100%">
+		
+		<div class="navbar-opacity">
+			<div class="container">
+				<div class="navbar-logo flex"> 
+					<div class="logo">
+						<a href="http://www.polimi.it/" title="Vai al sito del Politecnico di Milano"><img src="/images/logo_polimi.png" id="logo_polimi"/></a><br />
+						<a href="http://www.deib.polimi.it/" title="Vai alla homepage"><img src="/images/logo_deib.png" id="logo_deib"/></a>
+					</div>
+					<div class="description logo">Il Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) svolge ricerca multidisciplinare avanzata in automatica, bioingegneria, elettronica, elettrotecnica, informatica e telecomunicazioni</div>
+				</div>
+		
+		
+				<div class="navbar-middle navbar-static-top">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbar-menu">
+			 
+					<ul class="nav navbar-nav">
+					
+	
+	<li class='dropdown active'><a href='/ita/home'  >Home</a>
+	</li>
+	<li class='  dropdown  '><a href='/ita/notizie-ed-eventi'  class='dropdown-toggle' data-toggle='dropdown'  >Notizie ed Eventi</a><ul class='dropdown-menu' role='menu'>
+	
+	<li class=''><a href='/ita/notizie'   >Notizie</a>
+	</li>
+	<li class=''><a href='/ita/eventi'   >Eventi</a>
+	</li>
+	 </ul>
+	</li>
+	<li class='  dropdown  '><a href='/ita/chi-siamo'  class='dropdown-toggle' data-toggle='dropdown'  >Chi siamo</a><ul class='dropdown-menu' role='menu'>
+	
+	<li class=''><a href='/ita/missione'   >Missione</a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	<li class=''><a href='/ita/dal-direttore'   >Dal direttore</a>
+	</li>
+	<li class=''><a href='/ita/organigramma'   >Organigramma</a>
+	</li>
+	<li class=''><a href='/ita/governo'   >Governo</a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	<li class=''><a href='/ita/fatti-principali'   >Fatti principali</a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	<li class=''><a href='/ita/premi-e-riconoscimenti'   >Premi </a>
+	</li>
+	<li class=''><a href='/ita/libri-internazionali'   >Libri internazionali</a>
+	</li>
+	<li class=''><a href='/ita/relazioni-internazionali'   >Relazioni internazionali</a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	 </ul>
+	</li>
+	<li class='  dropdown  '><a href='/ita/ricerca'  class='dropdown-toggle' data-toggle='dropdown'  >Ricerca</a><ul class='dropdown-menu' role='menu'>
+	
+	<li class=''><a href='/ita/strategie'   >Strategie </a>
+	</li>
+	<li class=''><a href='/ita/aree-di-ricerca'   >Aree di Ricerca</a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	<li class=''><a href='/ita/linee-di-ricerca'   >Linee di ricerca</a>
+	</li>
+	<li class=''><a href='/ita/progetti-di-ricerca'   >Progetti di Ricerca</a>
+	</li>
+	<li class=''><a href='/ita/laboratori'   >Laboratori</a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	<li class=''><a href='/ita/brevetti'   >Brevetti</a>
+	</li>
+	<li class=''><a href='/ita/personale-di-ricerca'   >Personale</a>
+	</li>
+	<li class=''><a href='/ita/centri-collegati'   >Centri collegati</a>
+	</li>
+	<li class=''><a href='/ita/dottorato'   >Dottorato</a>
+	</li>
+	<li class=''><a href='/ita/phd-alumni'   >PhD Alumni</a>
+	</li>
+	 </ul>
+	</li>
+	<li class='  dropdown  '><a href='/ita/industria'  class='dropdown-toggle' data-toggle='dropdown'  >Industria</a><ul class='dropdown-menu' role='menu'>
+	
+	<li class=''><a href='/ita/relazioni'   >Relazioni</a>
+	</li>
+	<li class=''><a href='/ita/industria-progetti'   >Progetti </a>
+	</li>
+	<li class=''><a href='/ita/trasferimento'   >Trasferimento </a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	<li class=''><a href='/ita/spin-off'   >Spin-off</a>
+	</li>
+	<li class=''><a href='/ita/formazione'   >Formazione</a>
+	</li>
+	<li class=''><a href='/ita/come-collaborare'   >Come collaborare</a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	<li class=''><a href='/ita/industria-40'   >Industria 4.0</a>
+	</li>
+	 </ul>
+	</li>
+	<li class='  dropdown  '><a href='/ita/personale'  class='dropdown-toggle' data-toggle='dropdown'  >Personale</a><ul class='dropdown-menu' role='menu'>
+	
+	<li class=''><a href='/ita/personale-lista-alfabetica'   >Lista alfabetica</a>
+	</li>
+	<li class=''><a href='/ita/personale-lista-per-ruolo'   >Lista per ruolo</a>
+	</li>
+	<li class=''><a href='/ita/personale-motore-di-ricerca'   >Motore di ricerca</a>
+	</li>
+	<li class=''><a href='/ita/personale-posizioni'   >Posizioni </a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	 </ul>
+	</li>
+	<li class='  dropdown  '><a href='/ita/risorse'  class='dropdown-toggle' data-toggle='dropdown'  >Risorse</a><ul class='dropdown-menu' role='menu'>
+	
+	<li class=''><a href='/ita/intranet-e-servizi'   >Intranet e Servizi</a>
+	</li>
+	<li class=''><a href='/ita/biblioteca'   >Biblioteca</a>
+	</li>
+	<li class=''><a href='/ita/webmail'   >Webmail</a>
+	</li>
+	<li class=''><a href='/ita/risorse-dateneo'   >Risorse d'Ateneo</a>
+	</li>
+	 </ul>
+	</li>
+	<li class='  dropdown  '><a href='/ita/didattica'  class='dropdown-toggle' data-toggle='dropdown'  >Didattica</a><ul class='dropdown-menu' role='menu'>
+	
+	<li class=''><a href='/ita/futuri-studenti'   >Futuri Studenti</a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	<li class=''><a href='/ita/offerta-formativa'   >Offerta Formativa</a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	<li class=''><a href='/ita/docenti'   >Docenti </a>
+	</li>
+	<li class=''><a href='/ita/segr-didattica'   >Segreteria Didattica</a>
+	</li>
+	<li class=''><a href='/ita/tirocini'   >Tirocini</a>
+	</li>
+	<li class=''><a href='/ita/tesi'   >Tesi</a>
+	</li>
+	<li class=''><a href='/ita/studenti-stranieri'   >Studenti stranieri</a>
+	</li>
+	<li class=''><a href='/ita/opportunita-studenti'   >Opportunità per gli studenti</a><ul class='dropdown-menu' role='menu'>
+	
+	 </ul>
+	</li>
+	<li class=''><a href='/ita/tutoring'   >Tutoring</a>
+	</li>
+	<li class=''><a href='/ita/prospettive-dimpiego'   >Prospettive d'impiego</a>
+	</li>
+	 </ul>
+	</li>
+	 
+					</ul> 
+		    		</div>
+				</div>
+		</div>
+	</div>
+</div>
+<div class="content"><div class="home-content">
+		<div class="container">
+			<div class="home_tab_bottom container_width flex">
+		
+								
+				<div class="home_tab auto_height">
+					<div class="home_tab_title"><a href='/ita/eventi'>EVENTI</a></div>
+					<div class="home_tab_content auto_height">
+						<div class="home_tab_element home_tab_eventi">
+ 									 
+<ul class='home_eventi_carousel'>
+<li class='item'>
+<div class='home_tab_eventi_date'>12 ottobre</div>
+<div class='home_tab_link'><a href='/ita/eventi/dettagli/1632'>Hollow core optical fibers: the last generation</a></div>
+</li>
+<li class='item'>
+<div class='home_tab_eventi_date'>15 ottobre</div>
+<div class='home_tab_link'><a href='/ita/eventi/dettagli/1643'>Structure and function in the paediatric and neonatal lung, and relationship to clinical outcomes</a></div>
+</li>
+<li class='item'>
+<div class='home_tab_eventi_date'>15 ottobre</div>
+<div class='home_tab_link'><a href='/ita/eventi/dettagli/1646'>Multi-objective Evolutionary Optimization Assessment for Multi-purpose Reservoir Control under Uncertainty</a></div>
+</li>
+<li class='item'>
+<div class='home_tab_eventi_date'>16 ottobre</div>
+<div class='home_tab_link'><a href='/ita/eventi/dettagli/1631'>Introduction to P4 programming</a></div>
+</li>
+<li class='item'>
+<div class='home_tab_eventi_date'>17 ottobre</div>
+<div class='home_tab_link'><a href='/ita/eventi/dettagli/1638'>NECSTFocusTalk</a></div>
+</li>
+<li class='item'>
+<div class='home_tab_eventi_date'>22 ottobre</div>
+<div class='home_tab_link'><a href='/ita/eventi/dettagli/1629'>Another introduction to Bayesian data analysis with PyStan</a></div>
+</li>
+<li class='item'>
+<div class='home_tab_eventi_date'>22 ottobre</div>
+<div class='home_tab_link'><a href='/ita/eventi/dettagli/1640'>Fiber Nonlinearities: a Communications Engineer Perspective</a></div>
+</li>
+<li class='item'>
+<div class='home_tab_eventi_date'>30 ottobre</div>
+<div class='home_tab_link'><a href='/ita/eventi/dettagli/1639'>Memristor: Remembrance of Things Past</a></div>
+</li>
+<li class='item'>
+<div class='home_tab_eventi_date'>30 ottobre</div>
+<div class='home_tab_link'><a href='/ita/eventi/dettagli/1641'>Processing Streaming Data with KSQL</a></div>
+</li>
+<li class='item'>
+<div class='home_tab_eventi_date'>20 novembre</div>
+<div class='home_tab_link'><a href='/ita/eventi/dettagli/1645'>Site Reliability Engineering @ Google</a></div>
+</li>
+</ul>						</div>
+					</div>
+				</div>
+					
+
+
+				<div class="home_tab">
+					<div class="home_tab_title"><a href='/ita/notizie'>NOTIZIE</a></div>
+					<div class="home_tab_content">
+						<div class="home_tab_element home_tab_lines">
+										
+<ul>
+<li>
+<div class='home_tab_link'><a href='/ita/notizie/dettagli/738'>Grande successo di pubblico per MEETmeTONIGHT 2018</a></div>
+</li>
+<li>
+<div class='home_tab_link'><a href='/ita/notizie/dettagli/737'>Live the Motion Innovazione 2018</a></div>
+</li>
+</ul>						</div>
+					</div> 
+				</div>
+
+
+				
+				<div class="home_tab">
+					<div class="home_tab_title"><a href='javascript:;'>DOTTORATO</a></div> 
+					<div class="home_tab_content">
+						<div class="home_tab_lines home_tab_dottorato">
+							<div><img src="/images/home/dott_info.png" /></div>
+							<div class="home_tab_link"><a href='http://dottoratoit.deib.polimi.it'>DOTTORATO DI RICERCA in Ingegneria dell'Informazione</a></div>	
+						</div>
+						<div class="home_tab_lines home_tab_dottorato">
+							<div><img src="/images/home/dott_bio.png" /></div>
+							<div class="home_tab_link"><a href='http://www.phdbioengineering.polimi.it'>DOTTORATO DI RICERCA in Bioingegneria</a></div>
+						</div>
+					</div>
+				</div>
+					
+					
+
+			<div class="home_tab">
+					<div class="home_tab_title"><a href='http://www.youtube.com/deipolimi' target='_blank'>DEIB - YOUTUBE</a></div>
+					<div class="home_tab_content">
+						<div class="home_tab_element home_tab_video">
+							
+			<ul class="home_video_carousel">
+								<li class='item'>
+									<a href='https://www.youtube.com/watch?v=Iq-8SfPYXpI' target='_blank'  alt='PEoPLe@DEIB' title='PEoPLe@DEIB'>
+										<div class='home_tab_video_img'><img src='https://img.youtube.com/vi/Iq-8SfPYXpI/0.jpg' /></div>
+										<div class='home_tab_video_text'>PEoPLe@DEIB</div>
+									</a>
+								</li>
+								<li class='item'>
+									<a href='https://www.youtube.com/watch?v=LbPgJdP1aBw' target='_blank'  alt='Unscrambling light on a photonic chip' title='Unscrambling light on a photonic chip'>
+										<div class='home_tab_video_img'><img src='https://img.youtube.com/vi/LbPgJdP1aBw/0.jpg' /></div>
+										<div class='home_tab_video_text'>Unscrambling light on a photonic chip</div>
+									</a>
+								</li>
+								<li class='item'>
+									<a href='https://www.youtube.com/watch?v=009sgUWOs74' target='_blank'  alt='Cerimonia Intitolazione Sala Conferenze a Emilio Gatti' title='Cerimonia Intitolazione Sala Conferenze a Emilio Gatti'>
+										<div class='home_tab_video_img'><img src='https://img.youtube.com/vi/009sgUWOs74/0.jpg' /></div>
+										<div class='home_tab_video_text'>Cerimonia Intitolazione Sala Conferenze a Emilio Gatti</div>
+									</a>
+								</li>
+								<li class='item'>
+									<a href='https://www.youtube.com/watch?v=6t-pAyNJRAg' target='_blank'  alt='Il Nobel per la Fisica (A. Gatto)' title='Il Nobel per la Fisica (A. Gatto)'>
+										<div class='home_tab_video_img'><img src='https://img.youtube.com/vi/6t-pAyNJRAg/0.jpg' /></div>
+										<div class='home_tab_video_text'>Il Nobel per la Fisica (A. Gatto)</div>
+									</a>
+								</li>
+								<li class='item'>
+									<a href='https://www.youtube.com/watch?v=2JZeFnNugxU' target='_blank'  alt='Sam, your friendly super-friend (M. Gelsomini)' title='Sam, your friendly super-friend (M. Gelsomini)'>
+										<div class='home_tab_video_img'><img src='https://img.youtube.com/vi/2JZeFnNugxU/0.jpg' /></div>
+										<div class='home_tab_video_text'>Sam, your friendly super-friend (M. Gelsomini)</div>
+									</a>
+								</li>
+								<li class='item'>
+									<a href='https://www.youtube.com/watch?v=BxfIsM-ME-4' target='_blank'  alt='Drop - Giocare con l'acqua (P. Fraternali)' title='Drop - Giocare con l'acqua (P. Fraternali)'>
+										<div class='home_tab_video_img'><img src='https://img.youtube.com/vi/BxfIsM-ME-4/0.jpg' /></div>
+										<div class='home_tab_video_text'>Drop - Giocare con l'acqua (P. Fraternali)</div>
+									</a>
+								</li>
+								<li class='item'>
+									<a href='https://www.youtube.com/watch?v=YSEHMmv6aZQ' target='_blank'  alt='DEIB REUNION 2017' title='DEIB REUNION 2017'>
+										<div class='home_tab_video_img'><img src='https://img.youtube.com/vi/YSEHMmv6aZQ/0.jpg' /></div>
+										<div class='home_tab_video_text'>DEIB REUNION 2017</div>
+									</a>
+								</li>
+								<li class='item'>
+									<a href='https://www.youtube.com/watch?v=XmFqzquboYw' target='_blank'  alt='H2020 PASSION project' title='H2020 PASSION project'>
+										<div class='home_tab_video_img'><img src='https://img.youtube.com/vi/XmFqzquboYw/0.jpg' /></div>
+										<div class='home_tab_video_text'>H2020 PASSION project</div>
+									</a>
+								</li>
+			</ul>						<!-- Carousel -->						
+						</div>
+					</div>
+				</div>
+				
+				
+			</div> 
+			<!-- /.row -->
+		</div>
+		<!-- /.container -->
+	</div></div>	
+<div class="footer footer_home">
+	<div class="container">
+		<div class="footer_content flex">
+			<div class="footer_tab">
+				<div class="footer_tab_title"><a href='/ita/come-raggiungerci'>COME RAGGIUNGERCI</a></div>
+				<div class="footer_tab_content flex">
+					<div class="footer_tab_information"><a href="https://goo.gl/maps/RjQKb"><img src="/images/map.jpg" /></a></div>
+					<div class="footer_tab_information">Via Ponzio 34/5,<br />20133 Milano<br />Italia<br /></div>
+				</div>
+			</div>
+			<div class="footer_tab">
+				<div class="footer_tab_title"><a href='/ita/contatti'>CONTATTI E PEC</a></div>
+				<div class="footer_tab_content">
+					<div class="footer_tab_information">tel. +39 02 2399 3400<br /><br />pecdeib&#64;cert.polimi.it<br />(Solo da PEC a PEC)</div>
+				</div>
+			</div>
+			<div class="footer_tab_short">
+				<div class="footer_tab_title"><a href='/ita/contatti-stampa'>MEDIA</a></div>
+				<div class="footer_tab_content">
+						<div class="footer_tab_information"><a href='/ita/contatti-stampa'>&raquo; Press Room</a></div>
+						<div class="footer_tab_information"><a href='/allegati/files_statici/files/brochures.zip'>&raquo; Scarica le brochure</a></div>
+						<div class="footer_tab_information"><a href='http://www.polimi.it/policy/privacy' target='_blank'>&raquo; Privacy</a></div>
+				</div>
+			</div>
+			<div class="footer_tab_long">
+				<div class="footer_tab_content flex">
+						<div class="footer_tab_information"><a href="http://www.informatics-europe.org/"><img src="/images/informatics-europe.png" /></a></div>
+						<div class="footer_tab_information"><a href="http://www.questio.it/"><img src="/images/questio.png" /></a></div>
+				</div>
+			</div>
+		</div>
+	</div>	
+</div>	
+</body>
+</html>
+	

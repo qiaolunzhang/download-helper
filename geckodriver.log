@@ -246,3 +246,167 @@ JavaScript warning: https://t.agrantsem.com/tg.js?c=AG_383620_VERK&t=1, line 56:
 1538683903879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
 1538683903919	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://home.deib.polimi.it/amaldi/SlidesFOR-17-18.php
 1538683903941	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://home.deib.polimi.it/amaldi/SlidesFOR-17-18.php
+1538758024494	geckodriver	INFO	geckodriver 0.21.0
+1538758024559	geckodriver	INFO	Listening on 127.0.0.1:13319
+1538758027508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.z1YVYxsliblw"
+*** You are running in headless mode.
+1538758031970	Marionette	INFO	Listening on port 13328
+1538758032021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538758032213	Marionette	DEBUG	[6442450945] Frame script loaded
+1538758032252	Marionette	DEBUG	[6442450945] Frame script registered
+1538758035314	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538758035383	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538758035434	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://home.deib.polimi.it/pradella/PL.html
+1538758035457	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://home.deib.polimi.it/pradella/PL.html
+1538758256807	geckodriver	INFO	geckodriver 0.21.0
+1538758256832	geckodriver	INFO	Listening on 127.0.0.1:13672
+1538758259814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.Uv3Cw6bTtZlg"
+*** You are running in headless mode.
+1538758263847	Marionette	INFO	Listening on port 13684
+1538758264162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538758264216	Marionette	DEBUG	[6442450945] Frame script loaded
+1538758264218	Marionette	DEBUG	[6442450945] Frame script registered
+1538758267240	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538758267285	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538758267344	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://home.deib.polimi.it/pradella/PL.html
+1538758267373	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://home.deib.polimi.it/pradella/PL.html
+1538758321851	geckodriver	INFO	geckodriver 0.21.0
+1538758321878	geckodriver	INFO	Listening on 127.0.0.1:13902
+1538758324884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.A1J0pQLcgAuP"
+*** You are running in headless mode.
+1538758329178	Marionette	INFO	Listening on port 13914
+1538758329243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538758329301	Marionette	DEBUG	[6442450945] Frame script loaded
+1538758329305	Marionette	DEBUG	[6442450945] Frame script registered
+1538758332342	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538758332395	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538758332437	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://home.deib.polimi.it/pradella/PL.html
+1538758332470	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://home.deib.polimi.it/pradella/PL.html
+1539366276037	geckodriver	INFO	geckodriver 0.21.0
+1539366276058	geckodriver	INFO	Listening on 127.0.0.1:3388
+1539366279099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.hx8oi59eYr7t"
+*** You are running in headless mode.
+1539366303488	geckodriver	INFO	geckodriver 0.21.0
+1539366303510	geckodriver	INFO	Listening on 127.0.0.1:3490
+1539366306533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.AQeEls2hWII9"
+*** You are running in headless mode.
+1539366310712	Marionette	INFO	Listening on port 3518
+1539366311222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539366311282	Marionette	DEBUG	[6442450945] Frame script loaded
+1539366311284	Marionette	DEBUG	[6442450945] Frame script registered
+1539366314312	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539366314738	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539366315386	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://home.deib.polimi.it/fornacia/doku.php?id=teaching_rtosmi_old_material
+1539366315403	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://home.deib.polimi.it/fornacia/doku.php?id=teaching_rtosmi_old_material
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+394188	geckodriver	INFO	Listening on 127.0.0.1:3740
+1539366397165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.jkj7ToTvvs0w"
+*** You are running in headless mode.
+1539366401144	Marionette	INFO	Listening on port 3752
+1539366401568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539366401609	Marionette	DEBUG	[6442450945] Frame script loaded
+1539366401611	Marionette	DEBUG	[6442450945] Frame script registered
+1539366404639	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539366404772	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539366404993	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://home.deib.polimi.it/fornacia/doku.php?id=teaching_rtosmi_old_material
+1539366405040	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://home.deib.polimi.it/fornacia/doku.php?id=teaching_rtosmi_old_material
+1540579339939	geckodriver	INFO	geckodriver 0.21.0
+1540579339995	geckodriver	INFO	Listening on 127.0.0.1:2765
+1540579342942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.Fl5CrItIW2Zc"
+*** You are running in headless mode.
+1552945586570	geckodriver	INFO	geckodriver 0.21.0
+1552945586604	geckodriver	INFO	Listening on 127.0.0.1:2154
+1552945589603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHANGQ~1\\AppData\\Local\\Temp\\rust_mozprofile.6YpTaQenDYJ7"
+*** You are running in headless mode.
+1552945592293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552945592293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552945592650	Marionette	TRACE	Received observer notification profile-after-change
+1552945592829	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552945592996	Marionette	TRACE	Received observer notification command-line-startup
+1552945592997	Marionette	TRACE	Received observer notification nsPref:changed
+1552945592997	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552945593423	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552945596308	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552945596309	Marionette	TRACE	GFX sanity window detected, waiting until it has been closed...
+1552945596599	Marionette	TRACE	Received observer notification domwindowclosed
+1552945596599	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552945596865	Marionette	TRACE	All scripts recorded.
+1552945596865	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552945596866	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552945596867	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552945596867	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552945596867	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1552945596867	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552945596869	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1552945596870	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552945596870	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552945596871	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1552945596871	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1552945596871	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552945596874	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552945596874	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552945596876	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1552945596877	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552945596877	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1552945596877	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1552945596878	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552945596878	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552945596879	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552945596879	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552945596879	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1552945596880	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552945596880	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552945596881	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1552945596881	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552945597047	Marionette	INFO	Listening on port 2164
+1552945597048	Marionette	DEBUG	Remote service is active
+1552945597461	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:2193
+1552945597463	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552945597464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552945597643	Marionette	TRACE	[6442450945] Frame script loaded
+1552945597649	Marionette	TRACE	[6442450945] Frame script registered
+1552945597656	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"ce094ad1-22dc-4a2e-8a39-c649ea79d3f4","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552945600679	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"http://web.mit.edu/15.053/www/AMP.htm"}]
+1552945600700	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:blank
+1552945601033	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:blank
+1552945601117	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for http://web.mit.edu/15.053/www/AMP.htm
+1552945601153	Marionette	TRACE	[6442450945] Received DOM event pageshow for http://web.mit.edu/15.053/www/AMP.htm
+1552945601184	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552945601203	Marionette	DEBUG	0 -> [0,3,"WebDriver:GetPageSource",{}]
+1552945601212	Marionette	DEBUG	0 <- [1,3,null,{"value":"<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns ... &quot;;mso-bidi-font-family:\n&quot;Times New Roman&quot;\"><o:p>&nbsp;</o:p></span></p>\n\n</div>\n\n\n\n\n</body></html>"}]
+1552945616965	Marionette	DEBUG	0 -> [0,4,"Marionette:Quit",{"flags":["eForceQuit"]}]
+1552945616967	Marionette	INFO	Stopped listening on port 2164
+1552945617089	Marionette	DEBUG	0 <- [1,4,null,{"cause":"shutdown"}]
+1552945617166	Marionette	DEBUG	0 -> [0,5,"Marionette:Quit",{"flags":["eForceQuit"]}]
+1552945617167	Marionette	DEBUG	0 <- [1,5,{"error":"invalid session id","message":"Tried to run command without establishing a connection","stacktrace":"WebDriver ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1552945617188	Marionette	DEBUG	Closed connection 0
+[Parent 26616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552945617772	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1552945617773	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1552945617773	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1552945617773	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1552945617774	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1552945617774	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1552945617775	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1552945617775	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1552945617775	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1552945617775	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1552945617775	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1552945617775	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1552945617776	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1552945617776	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1552945617776	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1552945617776	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1552945617776	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1552945617776	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1552945617776	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1552945617777	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1552945617777	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1552945617777	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1552945617777	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1552945617777	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1552945617777	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1552945617777	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1552945617777	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1552945617779	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1552945617780	Marionette	DEBUG	Remote service is inactive
